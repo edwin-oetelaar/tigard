@@ -1,5 +1,5 @@
 <img alt="Tigard PCB Render" width="320" align="right" src="https://raw.githubusercontent.com/tigard-tools/tigard/master/tigard-render.png">
-
+<img alt="Tigard PCB Render" width="320" align="right" src="https://raw.githubusercontent.com/edwin-oetelaar/tigard/master/tigard_eduino_v11.png">
 # Tigard
 
 An FTDI FT2232H-based multi-protocol tool for hardware hacking.
