@@ -1,4 +1,4 @@
-# Tigard
+# Tigard (Eduino.io version)
 
 An FTDI FT2232H-based multi-protocol tool for hardware hacking.
 
@@ -55,8 +55,9 @@ There are two switches on Tigard to set the mode of operation. One controls volt
 #### Voltage Switch
 
 This switch chooses the reference voltage for the level shifters and the target system:
-* 1V8, 3V3, and 5V all apply a voltage to the VTGT pin.
+* 1V8, 3V3, and 5V all apply a voltage to the VTGT pin. (2.5 Volt feature on Eduino.io version)
 * VTGT disconnects the VTGT pin from supplies, and depends on the wire connected to the target to set the level shifter voltage.
+* The Eduino.io version has an extra jumper feature to select 1V8 or 2V5, a jumper on J8 makes it 1V8 (just like the original) 
 
 This results in 3 distinct use cases:
 1. **Target-Powered:** Set the switch to VTGT and connect the VTGT wire to the **powered** target. The **target** powers the level shifters.
