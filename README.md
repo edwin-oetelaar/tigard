@@ -4,7 +4,7 @@ An FTDI FT2232H-based multi-protocol tool for hardware hacking.
 
 <img alt="Tigard PCB Render" width="320" align="right" src="https://raw.githubusercontent.com/tigard-tools/tigard/master/tigard-render.png">
 
-<img alt="Tigard PCB Render" width="640" align="right" src="https://raw.githubusercontent.com/edwin-oetelaar/tigard/master/IMG_20210102_150924_299.jpg">
+<img alt="Tigard PCB Render" width="320" align="right" src="https://raw.githubusercontent.com/edwin-oetelaar/tigard/master/IMG_20210102_150924_299.jpg">
 
 # Objectives
 
