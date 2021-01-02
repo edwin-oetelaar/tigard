@@ -4,6 +4,8 @@ An FTDI FT2232H-based multi-protocol tool for hardware hacking.
 
 <img alt="Tigard PCB Render" width="320" align="right" src="https://raw.githubusercontent.com/tigard-tools/tigard/master/tigard-render.png">
 
+<img alt="Tigard PCB Render" width="640" align="right" src="https://raw.githubusercontent.com/edwin-oetelaar/tigard/master/IMG_20210102_150924_299.jpg">
+
 # Objectives
 
 There are plenty of -232H series breakout boards, but they are generally designed to be an easy way to adapt it to a specific use, and not designed for regularly plugging in to all different target systems.
@@ -14,7 +16,6 @@ There are plenty of -232H series breakout boards, but they are generally designe
 
 <img alt="Tigard PCB Render" width="320" align="right" src="https://raw.githubusercontent.com/edwin-oetelaar/tigard/master/IMG_20201230_144610_696.jpg">
 
-<img alt="Tigard PCB Render" width="640" align="left" src="https://raw.githubusercontent.com/edwin-oetelaar/tigard/master/IMG_20210102_150924_299.jpg">
 
 The two exceptions are the Exodus Intellegence Hardware Interface Board which is not open hardware or commercially available, and [TIMEP](https://github.com/Matir/timep) which is the origin and heritage of this project.
 
